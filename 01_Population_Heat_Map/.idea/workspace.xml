@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e7c6a08-630f-4051-8309-90721a7d8eb2" name="默认更改列表" comment="" />
+    <list default="true" id="0e7c6a08-630f-4051-8309-90721a7d8eb2" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Population_Heat_Map.html" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Heat_Map.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WO7noNFfDX24BQnZ2YbYqobQtk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,6 +62,8 @@
       <workItem from="1579010535289" duration="3039000" />
       <workItem from="1579079104488" duration="801000" />
       <workItem from="1579079996212" duration="9274000" />
+      <workItem from="1579258823229" duration="11000" />
+      <workItem from="1579258887327" duration="934000" />
     </task>
     <servers />
   </component>
