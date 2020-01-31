@@ -1,0 +1,24 @@
+2020-01-31 15:07:58.944 [ main ] - [ INFO  ] [ com.example.demo1.Demo1Application : 50 ] - Starting Demo1Application on DING-PC with PID 10992 (F:\MyCode\Agricultural-Big-Data-Basics\02_Spring_Boot\demo1\target\classes started by DING in F:\MyCode\Agricultural-Big-Data-Basics\02_Spring_Boot\demo1)
+2020-01-31 15:07:58.951 [ main ] - [ DEBUG ] [ com.example.demo1.Demo1Application : 53 ] - Running with Spring Boot v2.1.12.RELEASE, Spring v5.1.13.RELEASE
+2020-01-31 15:07:58.986 [ main ] - [ INFO  ] [ com.example.demo1.Demo1Application : 648 ] - No active profile set, falling back to default profiles: default
+2020-01-31 15:08:00.739 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-31 15:08:00.750 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-01-31 15:08:00.750 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-31 15:08:01.032 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-01-31 15:08:01.234 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-01-31 15:08:01.469 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-01-31 15:08:01.784 [ main ] - [ INFO  ] [ org.hibernate.jpa.internal.util.LogHelper : 31 ] - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-01-31 15:08:01.871 [ main ] - [ INFO  ] [ org.hibernate.Version : 46 ] - HHH000412: Hibernate Core {5.3.15.Final}
+2020-01-31 15:08:01.872 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 213 ] - HHH000206: hibernate.properties not found
+2020-01-31 15:08:02.051 [ main ] - [ INFO  ] [ org.hibernate.annotations.common.Version : 49 ] - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2020-01-31 15:08:02.200 [ main ] - [ INFO  ] [ org.hibernate.dialect.Dialect : 157 ] - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-01-31 15:08:02.404 [ main ] - [ INFO  ] [ o.hibernate.tool.schema.internal.SchemaCreatorImpl : 489 ] - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@fd09e43'
+2020-01-31 15:08:03.029 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-31 15:08:03.054 [ main ] - [ INFO  ] [ com.example.demo1.Demo1Application : 59 ] - Started Demo1Application in 5.072 seconds (JVM running for 6.548)
+2020-01-31 15:08:03.064 [ main ] - [ INFO  ] [ com.example.demo1.Demo1Application : 35 ] - HikariDataSource (HikariPool-1)
+2020-01-31 15:08:03.064 [ main ] - [ INFO  ] [ com.example.demo1.Demo1Application : 37 ] - HikariProxyConnection@844133497 wrapping conn0: url=jdbc:h2:mem:testdb user=SA
+2020-01-31 15:08:03.070 [ main ] - [ INFO  ] [ com.example.demo1.Demo1Application : 43 ] - {ID=1, BAR=aaa}
+2020-01-31 15:08:03.071 [ main ] - [ INFO  ] [ com.example.demo1.Demo1Application : 43 ] - {ID=2, BAR=bbb}
+2020-01-31 15:08:03.590 [ RMI TCP Connection(3)-192.168.133.1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
