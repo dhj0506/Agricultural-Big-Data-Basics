@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac1dd1c4-8e67-439c-afd1-2b7e16d8aaf8" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/docker.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/docker.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo1/Demo1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo1/Demo1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../参考资料.md" beforeDir="false" afterPath="$PROJECT_DIR$/../参考资料.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1X74184aNZk0Y4xLtSYGdG7Pn6J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/demo1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\MyCode\Agricultural-Big-Data-Basics\02_Spring_Boot\demo1\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyCode\Agricultural-Big-Data-Basics\02_Spring_Boot\demo1\src\main\java\com\example\demo1" />
+      <recent name="F:\MyCode\Agricultural-Big-Data-Basics\02_Spring_Boot\demo1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Demo1Application">
+    <configuration name="Demo1ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo1" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo1.Demo1ApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1ApplicationTests.testLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo1" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo1.Demo1ApplicationTests" />
+      <option name="METHOD_NAME" value="testLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo1.Demo1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Demo1ApplicationTests.testLog" />
+        <item itemvalue="JUnit.Demo1ApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac1dd1c4-8e67-439c-afd1-2b7e16d8aaf8" name="默认更改列表" comment="" />
+      <created>1580383581086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580383581086</updated>
+      <workItem from="1580383590299" duration="258000" />
+      <workItem from="1580383864847" duration="6486000" />
+      <workItem from="1580390375677" duration="1439000" />
+      <workItem from="1580391833431" duration="2089000" />
+      <workItem from="1580453626792" duration="1407000" />
+      <workItem from="1580455187364" duration="4086000" />
+      <workItem from="1580461264535" duration="9077000" />
+      <workItem from="1580475807622" duration="313000" />
+      <workItem from="1580476178848" duration="358000" />
+      <workItem from="1580476555894" duration="340000" />
+      <workItem from="1580476919636" duration="1832000" />
+      <workItem from="1580543732500" duration="13792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="93" key="#SQL_方言" timestamp="1580389332278">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="451" y="93" key="#SQL_方言/0.0.1920.1032@0.0.1920.1032" timestamp="1580389332278" />
+    <state x="1012" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580392200097">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1012" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580392200097" />
+    <state x="636" y="230" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580455010606">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="636" y="230" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580455010606" />
+    <state x="451" y="93" key="#更新" timestamp="1580454641955">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="451" y="93" key="#更新/0.0.1920.1032@0.0.1920.1032" timestamp="1580454641955" />
+    <state x="686" y="213" key="FileChooserDialogImpl" timestamp="1580547281133">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="686" y="213" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1580547281133" />
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom" timestamp="1580561574904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1580561574904" />
+    <state width="1864" height="259" key="GridCell.Tab.0.center" timestamp="1580561574904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1580561574904" />
+    <state width="1864" height="259" key="GridCell.Tab.0.left" timestamp="1580561574904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1580561574904" />
+    <state width="1864" height="259" key="GridCell.Tab.0.right" timestamp="1580561574904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1580561574904" />
+    <state width="1864" height="259" key="GridCell.Tab.1.bottom" timestamp="1580561574904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1580561574904" />
+    <state width="1864" height="259" key="GridCell.Tab.1.center" timestamp="1580561574904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1580561574904" />
+    <state width="1864" height="259" key="GridCell.Tab.1.left" timestamp="1580561574904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1580561574904" />
+    <state width="1864" height="259" key="GridCell.Tab.1.right" timestamp="1580561574904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1580561574904" />
+    <state width="276" height="551" key="HiddenNamespacesPopup" timestamp="1580391880824">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="276" height="551" key="HiddenNamespacesPopup/0.0.1920.1032@0.0.1920.1032" timestamp="1580391880824" />
+    <state x="436" y="198" key="IDE.errors.dialog" timestamp="1580559893778">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="436" y="198" key="IDE.errors.dialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580559893778" />
+    <state x="339" y="56" key="SettingsEditor" timestamp="1580470976563">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="339" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1580470976563" />
+    <state x="598" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1580543741166">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="598" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580543741166" />
+    <state x="573" y="57" width="773" height="918" key="find.popup" timestamp="1580383936101">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="573" y="57" width="773" height="918" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1580383936101" />
+    <state x="531" y="227" key="run.anything.popup" timestamp="1580470978314">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="531" y="227" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1580470978314" />
+    <state x="675" y="418" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580390286151">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="675" y="418" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580390286151" />
+  </component>
+</project>

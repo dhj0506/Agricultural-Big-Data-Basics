@@ -22,6 +22,9 @@ public class Demo1Application implements CommandLineRunner {
     @Autowired
     private JdbcTemplate jdbcTemplate;
 
+    @Autowired
+    private FooDao fooDao;
+
     public static void main(String[] args) {
         SpringApplication.run(Demo1Application.class, args);
     }
@@ -30,6 +33,13 @@ public class Demo1Application implements CommandLineRunner {
     public void run(String... args) throws Exception {
         showConnection();
         showData();
+        testAddFoo();
+        showData();
+        testDeleteFoo();
+        showData();
+        testUpdateFoo();
+        showData();
+        testSelectFooById();
     }
 
     private void showConnection() throws SQLException {
@@ -44,4 +54,21 @@ public class Demo1Application implements CommandLineRunner {
                 .forEach(row -> log.info(row.toString()));
     }
 
+    private void testAddFoo() {
+        Foo foo = new Foo(5,"eee");
+        log.info("添加：" + fooDao.addFoo(foo));
+    }
+
+    private void testDeleteFoo() {
+        log.info("删除：" + fooDao.deleteFooById(5));
+    }
+
+    private void testUpdateFoo() {
+        Foo foo = new Foo(2,"bbbbbb");
+        log.info("修改：" + fooDao.updateFoo(foo));
+    }
+
+    private void testSelectFooById() {
+        log.info("查询：" + fooDao.selectFooById(2));
+    }
 }
