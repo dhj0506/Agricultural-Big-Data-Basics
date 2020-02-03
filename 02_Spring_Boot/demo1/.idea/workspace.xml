@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac1dd1c4-8e67-439c-afd1-2b7e16d8aaf8" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/docker.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/docker.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo1/Demo1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo1/Demo1Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../参考资料.md" beforeDir="false" afterPath="$PROJECT_DIR$/../参考资料.md" afterDir="false" />
-    </list>
+    <list default="true" id="ac1dd1c4-8e67-439c-afd1-2b7e16d8aaf8" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,6 +122,7 @@
       <workItem from="1580476555894" duration="340000" />
       <workItem from="1580476919636" duration="1832000" />
       <workItem from="1580543732500" duration="13792000" />
+      <workItem from="1580563925548" duration="6000" />
     </task>
     <servers />
   </component>
@@ -198,10 +194,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="339" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1580470976563" />
-    <state x="598" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1580543741166">
+    <state x="598" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1580563925665">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="598" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580543741166" />
+    <state x="598" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580563925665" />
     <state x="573" y="57" width="773" height="918" key="find.popup" timestamp="1580383936101">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
