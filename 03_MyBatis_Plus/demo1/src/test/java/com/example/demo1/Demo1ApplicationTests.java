@@ -15,13 +15,4 @@ public class Demo1ApplicationTests {
     public void contextLoads() {
     }
 
-    @Test
-    public void testLog() {
-        log.trace("这是 info 级别");
-        log.debug("这是 debug 级别");
-        log.info("这是 info 级别");
-        log.warn("这是 warn 级别");
-        log.error("这是 error 级别");
-    }
-
 }
